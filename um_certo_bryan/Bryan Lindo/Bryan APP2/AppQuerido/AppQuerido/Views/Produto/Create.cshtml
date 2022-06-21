@@ -1,0 +1,77 @@
+﻿@model AppQuerido.Models.Produto
+@{
+    ViewBag.Title = "Produto";
+}
+
+
+
+@using(Html.BeginForm())
+{
+<div class="Form">
+
+    <br>
+    <div id="Codigo">
+        @Html.LabelFor(Model => Model.Codigo)
+        <br>
+        @Html.EditorFor(Model => Model.Codigo)
+        @Html.ValidationMessageFor(Model => Model.Codigo)
+    </div>
+    <br>
+    <div id="Nome">
+        @Html.LabelFor(Model => Model.Nome)
+        <br>
+        @Html.EditorFor(Model => Model.Nome)
+        @Html.ValidationMessageFor(Model => Model.Nome)
+    </div>
+    <br>
+    <div id="Preco">
+        @Html.LabelFor(Model => Model.Preco)
+        <br>
+        @Html.EditorFor(Model => Model.Preco)
+        @Html.ValidationMessageFor(Model => Model.Preco)
+    </div>
+    <br>
+    <div id="Data">
+        @Html.LabelFor(Model => Model.DataVal)
+        <br>
+        @Html.EditorFor(Model => Model.DataVal)
+        @Html.ValidationMessageFor(Model => Model.DataVal)
+    </div>
+    <br>
+    <div id="Login">
+        @Html.LabelFor(Model => Model.Login)
+        <br>
+        @Html.EditorFor(Model => Model.Login)
+        @Html.ValidationMessageFor(Model => Model.Login)
+    </div>
+    <br>
+    <div id="Email">
+        @Html.LabelFor(Model => Model.Email)
+        <br>
+        @Html.EditorFor(Model => Model.Email)
+        @Html.ValidationMessageFor(Model => Model.Email)
+    </div>
+    <br>
+    <div id="Senha">
+        @Html.LabelFor(Model => Model.Senha)
+        <br>
+        @Html.PasswordFor(Model => Model.Senha)
+        @Html.ValidationMessageFor(Model => Model.Senha)
+    </div>
+    <br>
+    <div id="ConfirmaSenha">
+        @Html.LabelFor(Model => Model.ConfirmaSenha)
+        <br>
+        @Html.PasswordFor(Model => Model.ConfirmaSenha)
+        @Html.ValidationMessageFor(Model => Model.ConfirmaSenha)
+    </div>
+
+    <br />
+    <input value="Cadastrar" type="submit" />
+
+    @section Scripts        {@Scripts.Render("~/bundles/jqueryval")
+    }
+</div>
+}
+
+

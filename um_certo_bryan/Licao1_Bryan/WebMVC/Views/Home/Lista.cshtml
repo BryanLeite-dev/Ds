@@ -1,0 +1,17 @@
+﻿@model IEnumerable<AppBancoDominio.Usuario>
+@{
+    ViewBag.Title = "Lista";
+}
+
+<h2>Lista</h2>
+
+<ul>
+
+    @foreach(var usu in Model) 
+    {
+        <li>
+            @usu.Nome_Usu
+        </li>
+    }
+</ul>
+

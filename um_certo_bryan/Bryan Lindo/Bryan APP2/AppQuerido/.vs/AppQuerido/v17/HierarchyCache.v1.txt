@@ -1,0 +1,215 @@
+﻿++Solução 'AppQuerido' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:AppQuerido.sln
+++AppQuerido
+i:{00000000-0000-0000-0000-000000000000}:AppQuerido
+++Properties
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\properties\
+++Referências
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++App_Data
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\app_data\
+++App_Start
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\app_start\
+++BundleConfig.cs
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\app_start\routeconfig.cs
+++Content
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\content\
+++bootstrap-theme.css
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\content\bootstrap.css
+++bootstrap.css.map
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\content\bootstrap.css.map
+++bootstrap.min.css
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\content\bootstrap.min.css.map
+++Site.css
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\content\site.css
+++Controllers
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\controllers\
+++FuncionarioController.cs
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\controllers\funcionariocontroller.cs
+++HomeController.cs
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\controllers\homecontroller.cs
+++PessoaController.cs
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\controllers\pessoacontroller.cs
+++ProdutoController.cs
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\controllers\produtocontroller.cs
+++fonts
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\fonts\
+++Models
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\models\
+++Pessoa.cs
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\models\pessoa.cs
+++Produto.cs
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\models\produto.cs
+++Scripts
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\
+++bootstrap.js
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\bootstrap.js
+++bootstrap.min.js
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\scripts\modernizr-2.8.3.js
+++Views
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\
+++Funcionario
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\funcionario\
+++Funcionario.cshtml
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\funcionario\funcionario.cshtml
+++Home
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\home\
+++About.cshtml
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\home\about.cshtml
+++Contact.cshtml
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\home\contact.cshtml
+++Index.cshtml
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\home\index.cshtml
+++Pessoa
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\pessoa\
+++Data.cshtml
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\pessoa\data.cshtml
+++Pessoa.cshtml
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\pessoa\pessoa.cshtml
+++Produto
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\produto\
+++Create.cshtml
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\produto\create.cshtml
+++Resultado.cshtml
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\produto\resultado.cshtml
+++Shared
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\shared\
+++_Layout.cshtml
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\shared\_layout.cshtml
+++Error.cshtml
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\shared\error.cshtml
+++_ViewStart.cshtml
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\_viewstart.cshtml
+++Web.config
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\views\web.config
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\web.config
+++favicon.ico
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\favicon.ico
+++Global.asax
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\global.asax
+++packages.config
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\packages.config
+++AssemblyInfo.cs
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++Microsoft.CSharp
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++Microsoft.Web.Infrastructure
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++Newtonsoft.Json
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.ComponentModel.DataAnnotations
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Configuration
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Core
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Data
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Data.DataSetExtensions
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Drawing
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.EnterpriseServices
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Net.Http
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Net.Http.WebRequest
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.Abstractions
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.ApplicationServices
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.DynamicData
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.Entity
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.Extensions
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.Helpers
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.Mvc
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.Optimization
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.Razor
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.Routing
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.Services
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.WebPages
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.WebPages.Deployment
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Web.WebPages.Razor
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Xml
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++System.Xml.Linq
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++WebGrease
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:
+++glyphicons-halflings-regular.eot
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\fonts\glyphicons-halflings-regular.woff2
+++Global.asax.cs
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\global.asax.cs
+++Web.Debug.config
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\web.debug.config
+++Web.Release.config
+i:{06334981-fc86-4d2c-b510-6539eba8f856}:c:\users\2dsmod\desktop\bryan lindo\bryan app2\appquerido\appquerido\web.release.config

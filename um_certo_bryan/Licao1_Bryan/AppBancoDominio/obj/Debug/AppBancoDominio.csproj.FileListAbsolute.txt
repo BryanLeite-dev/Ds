@@ -1,0 +1,18 @@
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoDominio\bin\Debug\AppBancoDominio.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoDominio\bin\Debug\AppBancoDominio.pdb
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoDominio\obj\Debug\AppBancoDominio.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoDominio\obj\Debug\AppBancoDominio.pdb
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoDominio\bin\Debug\AppBancoDominio.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoDominio\bin\Debug\AppBancoDominio.pdb
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.CoreCompileInputs.cache
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoDominio\obj\Debug\AppBancoDominio.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoDominio\obj\Debug\AppBancoDominio.pdb
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.AssemblyReference.cache
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoDominio\bin\Debug\AppBancoDominio.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoDominio\bin\Debug\AppBancoDominio.pdb
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.AssemblyReference.cache
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.CoreCompileInputs.cache
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoDominio\obj\Debug\AppBancoDominio.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoDominio\obj\Debug\AppBancoDominio.pdb

@@ -1,0 +1,57 @@
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\AppBancoAdo.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\AppBancoAdo.pdb
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\MySql.Data.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\Google.Protobuf.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\ZstdNet.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\System.Memory.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\System.Buffers.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\MySql.Data.xml
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.csproj.CopyComplete
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.dll
+C:\Users\Pichau\OneDrive - Etec Centro Paula Souza\Desktop\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.pdb
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\AppBancoAdo.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\AppBancoAdo.pdb
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\Google.Protobuf.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\ZstdNet.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\System.Memory.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\System.Buffers.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.csproj.CoreCompileInputs.cache
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.csproj.CopyComplete
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.pdb
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\AppBancoAdo.dll.config
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.csproj.AssemblyReference.cache
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\AppBancoAdo.dll.config
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\AppBancoAdo.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\AppBancoAdo.pdb
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\MySql.Data.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\Google.Protobuf.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\ZstdNet.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\System.Memory.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\System.Buffers.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\bin\Debug\MySql.Data.xml
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.csproj.AssemblyReference.cache
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.csproj.CoreCompileInputs.cache
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.csproj.CopyComplete
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.dll
+C:\Users\manfr\OneDrive\Área de Trabalho\Licao1_Bryan\AppBancoAdo\obj\Debug\AppBancoAdo.pdb
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\MySql.Data.dll
+C:\Users\2dsmod\Desktop\Licao1_Bryan\AppBancoAdo\bin\Debug\MySql.Data.xml
